@@ -1,3 +1,9 @@
+## Why eXo Fork?
+
+eXo Fork created the March 3rd, 2016 because we need a **release 0.13.3** to be able to execute tests on  [commons project](https://github.com/exoplatform/commons).
+
+All details here https://jira.exoplatform.org/browse/COMMONS-469
+
 <img src="http://img.jcabi.com/logo-square.svg" width="64px" height="64px" />
 
 [![Made By Teamed.io](http://img.teamed.io/btn.svg)](http://www.teamed.io)
